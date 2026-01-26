@@ -80,10 +80,11 @@ python -u code/main.py --data=Yelp2018 \
 ## Citation
 If you find the paper useful in your research, please consider citing:
 ```
-@article{chen2025rankformer,
+@inproceedings{chen2025rankformer,
   title={Rankformer: A Graph Transformer for Recommendation based on Ranking Objective},
   author={Chen, Sirui and Han, Shen and Chen, Jiawei and Hu, Binbin and Zhou, Sheng and Wang, Gang and Feng, Yan and Chen, Chun and Wang, Can},
-  journal={arXiv preprint arXiv:2503.16927},
+  booktitle={Proceedings of the ACM on Web Conference 2025},
+  pages={3037--3048},
   year={2025}
 }
 ```
